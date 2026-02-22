@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there! 👋  
 
-<!--
-**Muhammad-Shujat/Muhammad-Shujat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muhammad Shujat**, a Computer Science student passionate about building intelligent and practical software solutions.
+I enjoy turning ideas into real-world projects — especially in **Data Science, Machine Learning, AI Automation, and Software Development**.
+If there’s a problem to solve, I’m probably already coding a solution for it 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** C++, Python, SQL  
+- **Web:** HTML, CSS  
+- **Database:** MySQL  
+- **Core Areas:**  
+  - Data Structures & Algorithms  
+  - Machine Learning 🤖  
+  - Data Science 📊  
+  - AI Automation ⚙️
+    
+## 🚀 What I'm Currently Doing
+
+- Building ML & data-driven projects  
+- Strengthening backend & database concepts  
+- Exploring real-world AI applications
