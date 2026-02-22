@@ -1,12 +1,11 @@
-## Hey there! 👋  
+# Hey there! 👋  
 
 I'm **Muhammad Shujat**, a Computer Science student passionate about building intelligent and practical software solutions.
 I enjoy turning ideas into real-world projects — especially in **Data Science, Machine Learning, AI Automation, and Software Development**.
 If there’s a problem to solve, I’m probably already coding a solution for it 🚀  
 
----
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 - **Languages:** C++, Python, SQL  
 - **Web:** HTML, CSS  
@@ -17,7 +16,7 @@ If there’s a problem to solve, I’m probably already coding a solution for it
   - Data Science 📊  
   - AI Automation ⚙️
     
-## 🚀 What I'm Currently Doing
+# 🚀 What I'm Currently Doing
 
 - Building ML & data-driven projects  
 - Strengthening backend & database concepts  
