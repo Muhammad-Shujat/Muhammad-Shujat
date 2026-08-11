@@ -39,88 +39,22 @@ Become an AI Engineer capable of building intelligent, scalable, and impactful s
 I have two Gray parrots. 🦜🦜
 
 ---
+🛠️ Tech Stack
+👨‍💻 Programming Languages
 
-## 🛠️ Tech Stack
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/> </p>
 
-### 👨‍💻 Programming Languages
+📊 Data Science & AI
 
-<p align="left">
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/> </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-     width="48"
-     height="48"
-     alt="Python"/>
+🧰 Development Tools
 
-&nbsp;
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/> </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-     width="48"
-     height="48"
-     alt="C++"/>
+🗄️ Database
 
-</p>
-
-### 📊 Data Science & AI
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-     width="48"
-     height="48"
-     alt="NumPy"/>
-
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-     width="48"
-     height="48"
-     alt="Pandas"/>
-
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-     width="48"
-     height="48"
-     alt="Jupyter Notebook"/>
-
-</p>
-
-### 🧰 Development Tools
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     width="48"
-     height="48"
-     alt="Git"/>
-
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-     width="48"
-     height="48"
-     alt="GitHub"/>
-
-&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-     width="48"
-     height="48"
-     alt="VS Code"/>
-
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-     width="48"
-     height="48"
-     alt="PostgreSQL"/>
-
-</p>
-
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/> </p>
 ---
 
 <div align="center">
